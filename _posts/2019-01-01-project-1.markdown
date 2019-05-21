@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2019
 client: Lifespan / Oomph, Inc.
 category: Web Development
-description: I designed and launched the Drupal implementation of the Life Stories campaign for Oomph, using text, images and video from the <a href="https://www.nail.cc/">Nail</a> agency.
+description: I designed and launched the Drupal implementation of the <a href="https://www.lifespan.org/stories" target="_blank">Life Stories</a> campaign for <a href="https://www.oomphinc.com" target="_blank">Oomph</a>, using text, images and video from the <a href="https://www.nail.cc/" target="_blank">Nail</a> agency.
 
 ---
