@@ -4,7 +4,8 @@ email: info@hotwebmatter.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+# skills: "Web Developer - Graphic Artist - System Administrator"
+skills: "Web Developer - System Administrator - Server and Desktop Support"
 meta_author: Obert Matthew
 
 # Google webmaster tools
@@ -33,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: Matthew Obert
-  location: Providence Rhode Island
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -45,8 +46,10 @@ social:
     url: http://github.com/hotwebmatter
   - title: twitter
     url: https://twitter.com/hotwebmatter
-  - title: facebook
-    url: https://www.facebook.com/matt.obert.pvd
+  - title: tumblr
+    url: https://tumblr.com/hotwebmatter
+# - title: facebook
+#   url: https://www.facebook.com/matt.obert.pvd
   - title: stack-overflow
     url: http://cs50.stackexchange.com/users/12172/matt-obert
 
