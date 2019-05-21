@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2019-01-01
 img: life-stories.png
-alt: image-alt
+alt: Screenshot of Life Stories campaign for Lifespan
 project-date: January 2019
 client: Lifespan / Oomph, Inc.
 category: Web Development
