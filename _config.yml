@@ -34,9 +34,9 @@ color:
 # Footer settings
 footer:
   copyright: Matthew Obert
-  location: Location
+  location: 'Certifications & Awards'
   social: Around the Web
-  credits: Credits
+  credits: Projects
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,10 +55,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Providence, RI 02903
+  - line: 'Acquia Certified Site Builder - Drupal 8'
+  - line: 'I won a hackathon in 2016 for my <a href="http://pvdpotholedb.hotwebmatter.com" target="_blank">Providence Pothole Database</a> project.'
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'I am the Vice President of <a href="http://procomrad.org" target="_blank">Providence Community Radio</a>, broadcasting since 2018 on 101.1 FM, Wednesdays 6-10pm and Thursdays noon-6pm. '
 
 # Build settings
 markdown: kramdown
