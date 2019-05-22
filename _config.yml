@@ -46,10 +46,10 @@ social:
     url: http://github.com/hotwebmatter
   - title: twitter
     url: https://twitter.com/hotwebmatter
-  - title: tumblr
-    url: https://tumblr.com/hotwebmatter
-# - title: facebook
-#   url: https://www.facebook.com/matt.obert.pvd
+# - title: tumblr
+#   url: https://hotwebmatter.tumblr.com
+  - title: facebook
+    url: https://www.facebook.com/matt.obert.pvd
   - title: stack-overflow
     url: http://cs50.stackexchange.com/users/12172/matt-obert
 
